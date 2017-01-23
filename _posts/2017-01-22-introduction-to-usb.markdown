@@ -85,3 +85,6 @@ USB devices:
           - Bounded latency, pointing devices
         - Bulk
           - Large transfers, no guarantee for bandwidth or latency
+
+### References
+[1] <https://en.wikipedia.org/wiki/USB>
